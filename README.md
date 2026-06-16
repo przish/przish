@@ -3,8 +3,8 @@
 I'm a student at De La Salle Lipa studying BS Computer Science.
 
 ## About Me
-- 🌱 Currently learning: Java, Python
-- 💻 Working with: Java
+- 🌱 Currently learning: Java, React Native
+- 💻 Working with: React Native
 - 🎯 Goal: to be more proficient in different programming languages
 
 ## Projects
