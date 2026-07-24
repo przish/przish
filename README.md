@@ -8,7 +8,7 @@ I'm a student at De La Salle Lipa studying BS Computer Science.
 - 🎯 Goal: to be more proficient in different programming languages
 
 ## Projects
--
+- Traki
 
 ## Contact
 - GitHub: https://github.com/przish
