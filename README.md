@@ -13,3 +13,5 @@ I'm a student at De La Salle Lipa studying BS Computer Science.
 ## Contact
 - GitHub: https://github.com/przish
 - Email: github.irishpureza@gmail.com
+
+![](./profile-3d-contrib/profile-green-animate.svg)
