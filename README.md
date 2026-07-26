@@ -1,17 +1,15 @@
-# Hi, I'm Irish 👋
+# Hi, Irish here
 
 I'm a student at De La Salle Lipa studying BS Computer Science.
 
 ## About Me
-- 🌱 Currently learning: Java, React Native
-- 💻 Working with: React Native
-- 🎯 Goal: to be more proficient in different programming languages
+- Currently learning: Java, Python, React Native
+- Working with: React Native
 
 ## Projects
 - Traki
 
 ## Contact
-- GitHub: https://github.com/przish
 - Email: github.irishpureza@gmail.com
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
