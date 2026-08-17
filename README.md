@@ -7,7 +7,7 @@
 
 ### 📜 Current Quests
 - **[Main Quest]:** Mastering the art of **React Native, Next.js, & TypeScript**.
-- - **[Side Quest]:** Leveling up my backend skills with **Java & Python**.
+- **[Side Quest]:** Leveling up my backend skills with **Java & Python**.
 - **[Active Raids]:** Currently building out and pushing commits to [COMMrade](https://github.com/przish/COMMrade), [Traki](https://github.com/przish/traki), and [Jo Creates](https://github.com/przish/project-jo-creates).
 
 ### ⚔️ Arsenal 
