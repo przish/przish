@@ -1,5 +1,19 @@
 # 💫 About Me:
-## 👾 Player Profile: Irish (@przish)<br><br>**Class:** Level 2 BS Computer Science Student @ De La Salle Lipa  <br>**Guild:** AWS Learning Club - DLSL  <br>**Status:** *Lock in* ⚡  <br><br>### 📜 Current Quests<br>- **[Main Quest]:** Mastering the art of **React Native, Next.js, & TypeScript**.<br>- **[Side Quest]:** Leveling up my backend skills with **Java & Python**.<br>- **[Active Raids]:** Currently building out and pushing commits to [COMMrade](https://github.com/przish/COMMrade), [Traki](https://github.com/przish/traki), and [Jo Creates](https://github.com/przish/project-jo-creates).<br><br>### ⚔️ Arsenal <br>`TypeScript` `React Native` `Next.js` `Python` `Java`<br><br>### 📬 Contact NPC<br>Let's party up for a collab or talk code: [irish.devv@gmail.com](mailto:irish.devv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/irish-may-pureza)
+## 👾 Player Profile: Irish (@przish)
+
+**Class:** Level 2 BS Computer Science Student @ De La Salle Lipa  
+**Guild:** AWS Learning Club - DLSL  
+**Status:** *Lock in* ⚡  
+
+### 📜 Current Quests
+- **[Main Quest]:** Mastering the art of **React Native, Next.js, & TypeScript**.
+- - **[Side Quest]:** Leveling up my backend skills with **Java & Python**.
+- **[Active Raids]:** Currently building out and pushing commits to [COMMrade](https://github.com/przish/COMMrade), [Traki](https://github.com/przish/traki), and [Jo Creates](https://github.com/przish/project-jo-creates).
+
+### ⚔️ Arsenal 
+`TypeScript` `React Native` `Next.js` `Python` `Java`
+
+### 📬 Contact NPC<br>Let's party up for a collab or talk code: [irish.devv@gmail.com](mailto:irish.devv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/irish-may-pureza)
 
 
 ## 🌐 Socials:
