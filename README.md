@@ -1,30 +1,46 @@
-# 💫 About Me:
-## 👾 Player Profile: Irish (@przish)
+# Hi, I'm Irish May Pureza 👋
 
-**Class:** Level 2 BS Computer Science Student @ De La Salle Lipa  
-**Guild:** AWS Learning Club - DLSL  
-**Status:** *Lock in* ⚡  
+**BS Computer Science Student @ De La Salle Lipa · Full-Stack & AI Developer**  
+Member, **AWS Learning Club – DLSL** · Based in the Philippines
 
-### 📜 Current Quests
-- **[Main Quest]:** Mastering the art of **React Native, Next.js, & TypeScript**.
-- **[Side Quest]:** Leveling up my backend skills with **Java & Python**.
-- **[Active Raids]:** Currently building out and pushing commits to [COMMrade](https://github.com/przish/COMMrade), [Traki](https://github.com/przish/traki), and [Jo Creates](https://github.com/przish/project-jo-creates).
+I build full-stack web applications, offline-first PWAs, and applied AI tools—focused on clean architecture, reliable authentication and data modeling, and shipping software that solves real-world problems.
 
-### ⚔️ Arsenal 
-`TypeScript` `React Native` `Next.js` `Python` `Java`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irish-may-pureza)
+[![Email](https://img.shields.io/badge/Email-irish.devv%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:irish.devv@gmail.com)
 
-### 📬 Contact NPC<br>Let's party up for a collab or talk code: [irish.devv@gmail.com](mailto:irish.devv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/irish-may-pureza)
+---
 
+## Featured Projects
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayres.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irish-may-pureza) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@przish) 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Socius](https://github.com/przish/socius)** | Campus venue reservation, activity proposal review, and clearance pass platform for De La Salle Lipa (CSO & CSAO), with custom PBKDF2-SHA512 auth and role-based workflows. | `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Supabase` `Prisma` `Zod` `Tailwind CSS` |
+| **[Medscribe Local: Proof Mode](https://github.com/przish/medscribe)** | *AppBuildersPH Hackathon 2026* — Offline-first, 100% on-device clinical documentation aid that drafts structured SOAP notes with direct source citations and flags unsupported claims. | `Python` `Local AI` |
+| **[Twosday](https://github.com/przish/twosday)** | Cadence-aware meal planning app for couples and singles featuring AI-assisted planning, receipt OCR, and barcode scanning. | `Next.js` `TypeScript` `Supabase` `Gemini API` `Anthropic SDK` `Tesseract.js` `ZXing` |
+| **[TimeBetween](https://github.com/przish/time-between)** | Calendar-aware study time planner PWA for individuals and partners, deployed with automated PR previews ([Live App](https://time-between-76k.pages.dev)). | `React` `TypeScript` `Supabase` `Cloudflare Pages` `PWA` |
+| **[Traki](https://github.com/przish/traki)** | Habit-first, gamified personal expense tracker built as a zero-cost, installable Progressive Web App. | `TypeScript` `PWA` |
+| **[CampusPing](https://github.com/przish/campus-ping-bot)** | 24/7 zero-cost Canvas LMS multi-school alert bot delivering real-time announcements and deadline notifications to Facebook Messenger. | `JavaScript` `Supabase` |
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=przish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=przish&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=przish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## Technical Skills
+
+- **Languages:** TypeScript, JavaScript, Python, Java, SQL, Luau
+- **Frontend & Mobile:** Next.js, React, React Native, Tailwind CSS, Progressive Web Apps (PWAs)
+- **Backend & Databases:** PostgreSQL, Supabase, Prisma ORM, Node.js, Zod, REST APIs
+- **AI, Cloud & Tools:** Google Gemini API, Anthropic SDK, Vercel, Cloudflare Pages, Git/GitHub, Figma
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=przish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=przish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=przish&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
