@@ -1,7 +1,7 @@
 # Hi, I'm Irish May Pureza 👋
 
 **BS Computer Science Student @ De La Salle Lipa · Full-Stack & AI Developer**  
-Member, **AWS Learning Club – DLSL** · Based in the Philippines
+Associate Executive Secretary, **AWS Learning Club – DLSL** · Based in the Philippines
 
 I build full-stack web applications, offline-first PWAs, and applied AI tools—focused on clean architecture, reliable authentication and data modeling, and shipping software that solves real-world problems.
 
