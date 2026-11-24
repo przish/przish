@@ -35,12 +35,5 @@ I build full-stack web applications, offline-first PWAs, and applied AI tools—
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=przish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=przish&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="./assets/github-stats.svg" alt="Irish's GitHub Engineering Activity" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=przish&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
