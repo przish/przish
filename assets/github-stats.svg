@@ -65,7 +65,7 @@
 
   <!-- Header -->
   <text class="title" x="22" y="30">@przish · Engineering Activity</text>
-  <text class="subtitle" x="22" y="47">Last 12 months · Updated Nov 24, 2026</text>
+  <text class="subtitle" x="22" y="47">Last 12 months · Updated Nov 25, 2026</text>
 
   <!-- Top-Right KPIs -->
   <g transform="translate(415, 16)">
@@ -331,6 +331,7 @@
     <polygon class="lvl-1-front" points="474.4,188.4 480.6,188.4 480.6,196.7 474.4,196.7" />
     <polygon class="lvl-1-side" points="472.4,184.2 474.4,188.4 474.4,196.7 472.4,192.5" />
     <polygon class="lvl-0-top" points="481.2,190.7 487.4,190.7 489.4,194.9 483.2,194.9" />
+    <polygon class="lvl-0-top" points="490.0,190.7 496.2,190.7 498.2,194.9 492.0,194.9" />
     <polygon class="lvl-0-top" points="43.6,208.2 49.8,208.2 51.8,212.4 45.6,212.4" />
     <polygon class="lvl-0-top" points="52.4,208.2 58.6,208.2 60.6,212.4 54.4,212.4" />
     <polygon class="lvl-0-top" points="61.2,208.2 67.4,208.2 69.4,212.4 63.2,212.4" />
